@@ -23,3 +23,6 @@
 首先选择内容图像，content_image；风格图像，style_image；填写对应的图像路径。
 
 然后直接运行代码 Style_transfer.py，运行成功后生成Style_transfer_Output.png。
+
+## 模型效果
+<img src="https://github.com/guo-pu/Tensorflow2/blob/master/Style_transfer/test_picture/Model_effect.png" /><br/>
