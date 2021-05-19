@@ -9,6 +9,9 @@
 
 通过优化输出图像，以匹配A图像的内容统计数和B图像的风格统计数据。这些统计数据可以使用卷积网络从图像中提取。
 
+## 模型效果
+<img src="https://github.com/guo-pu/Tensorflow2/blob/master/Style_transfer/test_picture/Model_effect.png" /><br/>
+
 ## 项目实践
 **3.1、下载项目**
 
@@ -24,5 +27,4 @@
 
 然后直接运行代码 Style_transfer.py，运行成功后生成Style_transfer_Output.png。
 
-## 模型效果
-<img src="https://github.com/guo-pu/Tensorflow2/blob/master/Style_transfer/test_picture/Model_effect.png" /><br/>
+
