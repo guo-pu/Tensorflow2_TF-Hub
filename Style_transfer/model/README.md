@@ -1,1 +1,1 @@
-下载模型，并解压到当前目录，生成
+下载模型，并解压到model目录，生成一个magenta_arbitrary-image-stylization-v1-256_1目录
